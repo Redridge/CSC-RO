@@ -8,9 +8,9 @@
 These are my solutions to the tasks that I managed to solve during the [Cyber Security Challenge Romania](http://www.cybersecuritychallenge.ro/)
 
 ### Contents
-1. [Forensics](#Forensics)
-   * [Johnny's Coloring Book](#Johnny's\ Coloring\ Book\ -\ 50\ pts)
-   * [Johnny's Router](#Johnny's\ router\ -\ 100pts)
+1. [Forensics](#forensics)
+   * [Johnny's Coloring Book](#johnnys-coloring-book---50-pts)
+   * [Johnny's Router](#ohnnys-router---100pts)
    * Johnny's Hotseat
 2. Reverse Engineering
    * Re100
