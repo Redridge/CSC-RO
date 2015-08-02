@@ -72,7 +72,7 @@ The first file in the list is a picture which I opened and found nothing
 interesting. The second file is a script that prints the flag. I just
 ran the script and obtained the flag.
 
-#### Johnny' Hotseat - 150 pts
+#### Johnny's Hotseat - 150 pts
 
 In this task we were given a .pcap file. First though in my head was
 wireshark.
