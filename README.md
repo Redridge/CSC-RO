@@ -9,9 +9,9 @@ These are my solutions to the tasks that I managed to solve during the [Cyber Se
 
 ### Contents
 1. [Forensics](#forensics)
-   * [Johnny's Coloring Book](#johnnys-coloring-book---50-pts)
-   * [Johnny's Router](#johnnys-router---100pts)
-   * [Johnny's Hotseat](#johnnys-hotseat---150pts)
+   * [Johnny's Coloring Book](#johnnys-coloring-book)
+   * [Johnny's Router](#johnnys-router)
+   * [Johnny's Hotseat](#johnnys-hotseat)
 2. Reverse Engineering
    * Re100
    * Re200
@@ -22,7 +22,7 @@ These are my solutions to the tasks that I managed to solve during the [Cyber Se
    * Web1
 
 ## Forensics
-#### Johnny's Coloring Book - 50 pts ####
+#### Johnny's Coloring Book
 
 This task provided us with a .zip file. When trying to unzip I quickly
 found out it is protected by a password.
@@ -44,7 +44,7 @@ see the whole lines. Tried different font sizes. At font size 2 bingo!
 
 ![](./media/image5.png)
 
-#### Johnny's router - 100pts
+#### Johnny's router
 
 In this task we are given a .bin file
 
@@ -72,7 +72,7 @@ The first file in the list is a picture which I opened and found nothing
 interesting. The second file is a script that prints the flag. I just
 ran the script and obtained the flag.
 
-#### Johnny's Hotseat - 150 pts
+#### Johnny's Hotseat
 
 In this task we were given a .pcap file. First though in my head was
 wireshark.
