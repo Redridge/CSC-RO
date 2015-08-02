@@ -5,7 +5,7 @@
 ### _by RED_
 
 ### What is this?
-These are my solutions to the tasks that I managed to solve during the [Cyber Security Challenge Romania](http://www.cybersecuritychallenge.ro/)
+These are my solutions to the tasks that I managed to solve during the [Cyber Security Challenge Romania](http://www.cybersecuritychallenge.ro/). Note that these are not all the tasks.
 
 ### Contents
 1. [Forensics](#forensics)
