@@ -51,21 +51,21 @@ In this task we are given a .bin file
 ![](./media/image6.png)
 
 Firstly I tried to extract its contents with binwalk.
-```binwalk -e -M johnnys_router.bin```
+`binwalk -e -M johnnys_router.bin`
 
 ![](./media/image7.png)
 
 Here is an interesting part. The first time I tried to do this I did not
-get the squashfs-root directory. I wanted to mount the â€œ120000.squashfsâ€
+get the squashfs-root directory. I wanted to mount the `120000.squashfs`
 filesystem so I checked online and I found out I needed the
-squashfs-tools util. I did not manage to mount the file so I scrapped
+`squashfs-tools` util. I did not manage to mount the file so I scrapped
 everything and started again. Now that I had the squashfs-tools the
 squashfs-root directory appeared.
 
 ![](./media/image8.png)
 
 ![](./media/image9.png)The directory seemed to be a root directory of
-some filesystem (presumably the routerâ€™s fs). In the task description it
+some filesystem (presumably the router's fs). In the task description it
 was stated that Johnny tried to make some improvements to his router so
 I looked for the last modified files.
 
