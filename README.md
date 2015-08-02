@@ -12,14 +12,14 @@ These are my solutions to the tasks that I managed to solve during the [Cyber Se
    * [Johnny's Coloring Book](#johnnys-coloring-book)
    * [Johnny's Router](#johnnys-router)
    * [Johnny's Hotseat](#johnnys-hotseat)
-2. Reverse Engineering
-   * Re100
-   * Re200
-   * Re500
-3. Exploitation
-   * Lucky 4
-4. Web
-   * Web1
+2. [Reverse Engineering](#reverse-engineering)
+   * [Re100](#re100)
+   * [Re200](#re200)
+   * [Re500](#re500)
+3. [Exploitation](#exploitation)
+   * [Lucky 4](#lucky-4)
+4. [Web](#web)
+   * [Web1](#web1)
 
 ## Forensics
 #### Johnny's Coloring Book
