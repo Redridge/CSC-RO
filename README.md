@@ -51,7 +51,7 @@ In this task we are given a .bin file
 ![](./media/image6.png)
 
 Firstly I tried to extract its contents with binwalk.
-`binwalk -e -M johnnys_router.bin`
+```binwalk -e -M johnnys_router.bin```
 
 ![](./media/image7.png)
 
