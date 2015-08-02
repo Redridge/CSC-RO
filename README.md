@@ -10,7 +10,7 @@ These are my solutions to the tasks that I managed to solve during the [Cyber Se
 ### Contents
 1. [Forensics](#forensics)
    * [Johnny's Coloring Book](#johnnys-coloring-book---50-pts)
-   * [Johnny's Router](#ohnnys-router---100pts)
+   * [Johnny's Router](#johnnys-router---100pts)
    * Johnny's Hotseat
 2. Reverse Engineering
    * Re100
