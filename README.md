@@ -1,12 +1,28 @@
-**Cyber Security Challenge Romania**
+# Cyber Security Challenge Romania
+---------
+## Task Write-ups
 
-**Task Write-ups**
+### _by RED_
 
-*by RED*
+### What is this?
+These are my solutions to the tasks that I managed to solve during the [Cyber Security Challenge Romania](http://www.cybersecuritychallenge.ro/)
 
-***Forensics***
+### Contents
+1. [Forensics](#Forensics)
+   * [Johnny's Coloring Book](#Johnny's\ Coloring\ Book\ -\ 50\ pts)
+   * [Johnny's Router](#Johnny's\ router\ -\ 100pts)
+   * Johnny's Hotseat
+2. Reverse Engineering
+   * Re100
+   * Re200
+   * Re500
+3. Exploitation
+   * Lucky 4
+4. Web
+   * Web1
 
-**Johnnyâ€™s Coloring Book â€“ 50 pts**
+## Forensics
+#### Johnny's Coloring Book - 50 pts ####
 
 This task provided us with a .zip file. When trying to unzip I quickly
 found out it is protected by a password.
@@ -17,7 +33,7 @@ I managed to find the password using a dictionary attack.
 
 ![](./media/image2.png)
 
-Letâ€™s see what kind of file â€œbookâ€ is:
+Let's see what kind of file `book` is:
 
 ![](./media/image3.png)
 
@@ -28,7 +44,7 @@ see the whole lines. Tried different font sizes. At font size 2 bingo!
 
 ![](./media/image5.png)
 
-**Johnnyâ€™s router â€“ 100pts**
+#### Johnny's router - 100pts
 
 In this task we are given a .bin file
 
