@@ -17,7 +17,7 @@ These are my solutions to the tasks that I managed to solve during the [Cyber Se
    * [Re200](#re200)
    * [Re500](#re500)
 3. [Exploitation](#exploitation)
-   * [Lucky 4](#lucky-4)
+   * [Lucky 4](#lucky_4)
 4. [Web](#web)
    * [Web1](#web1)
 
